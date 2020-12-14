@@ -10,7 +10,7 @@ title:            On Mapping
 tagline:          'Resources on and about mapping with OpenStreetMap'
 description:      'Resources on and about mapping with <a href="https://osm.org" target="_blank">OpenStreetMap</a>. Maintained by <a href="https://baato.io" target="_blank">@baato</a>.'
 url:              http://hyde.getpoole.com
-baseurl:          /a/
+baseurl:          /mapping/
 
 
 author:
