@@ -1,21 +1,20 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            On Mapping
+tagline:          'Resources on and about mapping with OpenStreetMap'
+description:      'Resources on and about mapping with <a href="https://osm.org" target="_blank">OpenStreetMap</a>. Maintained by <a href="https://baato.io" target="_blank">@baato</a>.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Arogya Koirala'
+  url:            https://twitter.com/koiralaaa
 
 paginate:         5
 
@@ -23,4 +22,9 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/KathmanduLivingLabs/mapping-guide
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+  - redcarpet
