@@ -1,4 +1,4 @@
-I"@<p>Until a couple of decades ago, map making was a reserve for experts. It was upto surveyors, geographers, and cartographers to collect and transcribe information of the physical world and make it accessible through atlases, globes, and paper maps. However, in recent years, with the rise of web technologies, this is no longer the case.</p>
+I"?<p>Until a couple of decades ago, map making was a reserve for experts. It was upto surveyors, geographers, and cartographers to collect and transcribe information of the physical world and make it accessible through atlases, globes, and paper maps. However, in recent years, with the rise of web technologies, this is no longer the case.</p>
 
 <p><a href="https://osm.org">OpenStreetMap</a> (OSM) is a free and editable digital map database of the world. It is a crowdsourcing project that relies on volunteered geographic information (VGI). Data in OpenStreetMap, which is provided through <a href="http://www.openstreetmap.org/copyright">open licences</a>, is freely availaible  for visualization, querying, download, and modification purposes by anyone who needs it.</p>
 
@@ -7,7 +7,7 @@
 <p>To add data to OSM, <em>mappers</em> use different software tools such as JOSM, ID editor, etc. These tools allow users to trace points, lines, and polygons on top of freely available satellite imagery and mark them as bus stops, roads, or parks respectively (see image below). Upon completion, users submit these changes online to the OpenStreetMap server.</p>
 
 <p><br />
-<img src="/assets/id_animated.gif" alt="ID editor animated" title="ID Editor Animated" />
+<img src="assets/id_animated.gif" alt="ID editor animated" title="ID Editor Animated" />
 <br /></p>
 
 :ET

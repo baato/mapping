@@ -7,9 +7,9 @@ OSM has a strong and active community in Nepal, with organizations such as [Kath
 
 ### If you are a government/non-government organization:
 - You can [provide your data to OpenStreetMap](https://blog.openstreetmap.org/wp-content/uploads/2020/07/Providing-data-to-OpenStreetMap.pdf). Thousands of websites and publishers use OpenStreetMap as their source for geographical data. These include companies like Facebook, Microsoft, Apple and Amazon. Getting your data into OpenStreetMap would simultaneously allow you to:
-increase the reach of your data, 
-engage the active OSM  community (6 million global users, 16,000 active users everyday) in its maintenance, and 
-take advantage of thousands of tools within the OSM ecosystem.
+    - increase the reach of your data, 
+    - engage the active OSM  community (6 million global users, 16,000 active users everyday) in its maintenance, and 
+    - take advantage of thousands of tools within the OSM ecosystem.
 - You can [launch a city mapping project](https://vizzuality.github.io/community-mapping-es/#1-2-rationale-for-the-open-cities-project). The World Bank’s Open Data for Resilience Initiative (OpenDRI) was started in Nepal, and provides guides to launch city mapping initiatives.
 - You can start and/or support a local mapping community. Follow the OSM Nepal Facebook page to learn more. 
 - You can [generate digital and printed map books](http://blog.kathmandulivinglabs.org/the-map-book-pokhara-metropolitan-city-in-maps-launched/) using OpenStreetMap data.
