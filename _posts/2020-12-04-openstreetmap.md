@@ -12,6 +12,6 @@ OSM is similar to Wikipedia in the sense that [anyone with an account](https://w
 To add data to OSM, *mappers* use different software tools such as JOSM, ID editor, etc. These tools allow users to trace points, lines, and polygons on top of freely available satellite imagery and mark them as bus stops, roads, or parks respectively (see image below). Upon completion, users submit these changes online to the OpenStreetMap server.
 
 <br/>
-![ID editor animated](/assets/id_animated.gif "ID Editor Animated")
+![ID editor animated](assets/id_animated.gif "ID Editor Animated")
 <br/>
 
